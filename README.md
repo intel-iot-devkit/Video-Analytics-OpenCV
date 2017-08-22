@@ -1,4 +1,4 @@
-# Intel® Reference Design for Digital Signage
+# Python Code Samples for Digial Signage
 
 This repository contains a sample reference implementation of an advanced Digital Signage application for Intel® platforms that uses hardware media acceleration, computer vision and IoT.
 
