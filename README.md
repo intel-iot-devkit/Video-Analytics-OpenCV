@@ -1,6 +1,6 @@
-# Python Code Samples for Digial Signage
+# OpenCV Code Samples for Intel Digial Signage
 
-This repository contains a sample reference implementation of an advanced Digital Signage application for Intel® platforms that uses hardware media acceleration, computer vision and IoT.
+This repository contains OpenCV sample code for Digital Signage, allowing you to create Digital Signage solutions on Intel® platforms, using hardware media acceleration, computer vision, and IoT.
 
 ## Supported Intel® hardware platforms
 
