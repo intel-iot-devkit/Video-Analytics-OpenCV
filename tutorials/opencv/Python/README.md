@@ -1,4 +1,4 @@
-# Python Code Samples for Video Analytics with OpenCV
+# Python Code Samples for Video Analytics with OpenCV\*
 #### *- With a focus on Digital Signage
 
 Modern retail settings incorporate computer vision technologies for video analytics as well as attribution purposes. These tutorial samples are intended for developers of computer vision and analytics and uses the widely used Open-Source Computer Vision (OpenCV) library for computer vision.
@@ -69,7 +69,7 @@ All the code samples have an individual README how to use the sample as well as 
 
 ### OpenCV DOG Image
 
-[Sample 08](sample_08/ocv_dog_img.py) is a program that overlays a **Digital On-Screen Graphic (DOG)** onto a still image. DOG is a form of digital watermarking routinely used on broadcast TV to show the TV channel logo. It can also be used on digital signage to watermark content. 
+[Sample 08](sample_08/ocv_dog_img.py) is a program that overlays a **Digital On-Screen Graphic (DOG)** onto a still image. DOG is a form of digital watermarking routinely used on broadcast TV to show the TV channel logo. 
 
 ### OpenCV DOG Video
 
