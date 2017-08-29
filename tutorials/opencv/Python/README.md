@@ -1,4 +1,4 @@
-# Python Code Samples for Video Analytics with OpenCV\*
+# Python Code Samples for Video Analytics with OpenCV
 
 Modern retail settings incorporate computer vision technologies for video analytics as well as attribution purposes. These tutorial samples are intended for developers of computer vision and analytics and uses the widely used Open-Source Computer Vision (OpenCV) library for computer vision.
 
@@ -6,7 +6,7 @@ To learn more about the use of Computer Vision and Video Analytics refer to the 
 
 [Introduction to Developing and Optimizing Display Technology](https://software.intel.com/en-us/articles/introduction-to-developing-and-optimizing-display-technology)
 
-To learn how to install OpneCV for these tutorial samples, refer to the following document:
+To learn how to install OpenCV for these tutorial samples, refer to the following document:
 
 [Installing OpenCV for Python\*](../../../docs/OpenCV/Python/InstallOpenCV_Python.md)
 
@@ -16,10 +16,10 @@ The code samples are mainly in two categories: Diagnostics and Application
 Diagnostic Samples:
 
 	Sample 01 - Version information and environment variables
-	Sample 02 - OpenCV* build information
+	Sample 02 - OpenCV build information
 	Sample 03 - Basic image test - overlay text
 	Sample 04 - Basic video test - stream and overlay text
-	Sample 05 - Checks for OpenCL availability
+	Sample 05 - Checks for OpenCL™ availability
 	Sample 07 - Checks for hardware extension support
 
 Application Samples:
@@ -52,7 +52,7 @@ All the code samples have an individual README how to use the sample as well as 
 
 ### OpenCV with OpenCL™
 
-[Sample 05](sample_05/ocv_ocl_info.py) is a simple diagnostic program that determines whether OpenCL is available for use within OpenCL™, Enables OpenCL, checks whether it has been enabled and then disables it. The program then checks if OpenCL has been disabled and exits.
+[Sample 05](sample_05/ocv_ocl_info.py) is a simple diagnostic program that determines whether OpenCL™ is available for use within OpenCL, Enables OpenCL, checks whether it has been enabled and then disables it. The program then checks if OpenCL has been disabled and exits.
 
 > _**Note:**_ OpenCV v3.2.0 pre-built binary release can use OpenCL if it has been properly installed. The Intel optimized OpenCL drivers are installed as part of the integrated Intel® Graphics Driver. OpenCL is currently supported better in C++ rather than on Python where you can only display status and enable or disable use of an OpenCL resource.
 
@@ -62,7 +62,7 @@ All the code samples have an individual README how to use the sample as well as 
 
 ### OpenCV Hardware Info
 
-[Sample 07](sample_07/ocv_hw_info.py) is a simple diagnostic program that determines how many logical CPU's are available and then queries the hardware to check whether MMX™ and Intel® Streaming SIMD Extensions (Intel® SSE), Intel® Advanced Vector Extensions etc. are supported .
+[Sample 07](sample_07/ocv_hw_info.py) is a simple diagnostic program that determines how many logical CPU's are available and then queries the hardware to check whether MMX™ technology and Intel® Streaming SIMD Extensions (Intel® SSE), Intel® Advanced Vector Extensions etc. are supported .
 
 > _**Note:**_ The OpenCV function cv2.checkHardwareSupport(feature) returns true if the host hardware supports the specified feature. When users call setUseOptimized(False), all the subsequent calls to cv2.checkHardwareSupport() will return false until cv2.setUseOptimized(True) is called. This way users can dynamically switch on and off the optimized code in OpenCV.
 
