@@ -1,11 +1,9 @@
 # Python Code Samples for Video Analytics with OpenCV
 #### *- With a focus on Digital Signage
 
-## Computer Vision for digital Signage
+Modern retail settings incorporate computer vision technologies for video analytics as well as attribution purposes. These tutorial samples are intended for developers of computer vision and analytics and uses the widely used Open-Source Computer Vision (OpenCV) library for computer vision.
 
-Modern digital signage in a retail environment incorporates computer vision technologies for video analytics as well as attribution purposes. These tutorial samples are intended for developers of computer vision and analytics for digital signage and uses the widely used Open-Source Computer Vision (OpenCV) library for computer vision.
-
-To learn more about the use of Computer Vision and Video Analytics in digital signage refer to the following article:
+To learn more about the use of Computer Vision and Video Analytics refer to the following article:
 
 [Introduction to Developing and Optimizing Display Technology](https://software.intel.com/en-us/articles/introduction-to-developing-and-optimizing-display-technology)
 
