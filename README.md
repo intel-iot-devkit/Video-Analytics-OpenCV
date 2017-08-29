@@ -1,16 +1,16 @@
-# Video Analytics Code Samples using OpenCV\*
+# Video Analytics Code Samples using OpenCV
 
-This repository contains Python code samples which us the Open Source Computer Vision (OpenCV\*) Library.  These code samples are a good starting point for developers, across a wide range of markets, who wish to develop more robust computer vision and analytic solutions. 
+This repository contains Python\* code samples which us the Open Source Computer Vision (OpenCV) Library.  These code samples are a good starting point for developers, across a wide range of markets, who wish to develop more robust computer vision and analytic solutions. 
 
 The code samples are mainly in two categories: Diagnostics and Application
 
 Diagnostic Samples:
 
 	Sample 01 - Version information and environment variables
-	Sample 02 - OpenCV* build information
+	Sample 02 - OpenCV build information
 	Sample 03 - Basic image test - overlay text
 	Sample 04 - Basic video test - stream and overlay text
-	Sample 05 - Checks for OpenCL availability
+	Sample 05 - Checks for OpenCL™ availability
 	Sample 07 - Checks for hardware extension support
 
 Application Samples:
