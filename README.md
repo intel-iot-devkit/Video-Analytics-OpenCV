@@ -1,16 +1,16 @@
-# OpenCV Code Samples for Digital Signage
+# Video Analytics Code Samples using OpenCV\*
 
-This repository contains OpenCV sample code for Digital Signage, allowing you to create Digital Signage solutions on Intel® platforms, using hardware media acceleration, computer vision, and IoT.
+This repository contains Python code samples which us the Open Source Computer Vision (OpenCV\*) Library.  These code samples are a good starting point for developers, across a wide range of markets, who wish to develop more robust computer vision and analytic solutions. 
+
+These samples covers diagnostics 
+
+The twelve computer vision code samples in this repository have been optimized using Intel® Integrated Performance Primitives (Intel® IPP) and the Intel® Math Kernel Library (Intel® MKL). By following these code samples with the optimized libraries, you will be able to see performance improvements over the basic installation of OpenCV. 
 
 ## Supported Intel® hardware platforms
 
 **Tested:**
 
-	Intel® NUC
-
-**Untested:**
-
-	Intel® Expansion Kit with MinnowBoard MAX*
+	Intel® NUC NUC6i7KYK with Intel® Core™ i7 (codename Skylake)
 
 ## Development Environments
 
