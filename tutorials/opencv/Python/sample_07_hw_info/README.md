@@ -1,5 +1,5 @@
 # OpenCV Tutorial Sample 7: ocv_hw_info
-[Sample 07](ocv_hw_info.py) is a simple diagnostic program that determines how many logical CPU's are available and then queries the hardware to check whether MMX™ and Intel® Streaming SIMD Extensions (Intel® SSE), Intel® Advanced Vector Extensions etc. are supported .
+[Sample 07](ocv_hw_info.py) is a simple diagnostic program that determines how many logical CPU's are available and then queries the hardware to check whether MMX™ technology and Intel® Streaming SIMD Extensions (Intel® SSE), Intel® Advanced Vector Extensions etc. are supported .
 
 >Note: The OpenCV function cv2.checkHardwareSupport(feature) returns true if the host hardware supports the specified feature. When users call setUseOptimized(False), all the subsequent calls to cv2.checkHardwareSupport() will return false until cv2.setUseOptimized(True) is called. This way users can dynamically switch on and off the optimized code in OpenCV.
 
