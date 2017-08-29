@@ -18,21 +18,21 @@ The code samples are mainly in two categories: Diagnostics and Application
 
 Diagnostic Samples:
 
-	Sample 01
-	Sample 02
-	Sample 03
-	Sample 04
-	Sample 05
-	Sample 07
+	Sample 01 - Version information and environment variables
+	Sample 02 - OpenCV* build information
+	Sample 03 - Basic image test - overlay text
+	Sample 04 - Basic video test - stream and overlay text
+	Sample 05 - Checks for OpenCL availability
+	Sample 07 - Checks for hardware extension support
 
 Application Samples:
 
-	Sample 06
-	Sample 08
-	Sample 09
-	Sample 10
-	Sample 11
-	Sample 12
+	Sample 06 - Video steam and capture image
+	Sample 08 - Watermarking still image
+	Sample 09 - Watermarking display stream
+	Sample 10 - Still image face and eye detection
+	Sample 11 - Real-time video face detection and tracking
+	Sample 12 - Real-time people counter
 
 ### Usage
 All the code samples have an individual README how to use the sample as well as an Interactive Jupyter Notebook\* based tutorial. In addition, the code samples are extensively commented.
