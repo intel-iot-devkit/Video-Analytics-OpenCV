@@ -2,7 +2,24 @@
 
 This repository contains Python code samples which us the Open Source Computer Vision (OpenCV\*) Library.  These code samples are a good starting point for developers, across a wide range of markets, who wish to develop more robust computer vision and analytic solutions. 
 
-These samples covers diagnostics 
+The code samples are mainly in two categories: Diagnostics and Application
+
+Diagnostic Samples:
+
+Sample 01 - Version information and environment variables
+Sample 02 - OpenCV* build information
+Sample 03 - Basic image test - overlay text
+Sample 04 - Basic video test - stream and overlay text
+Sample 05 - Checks for OpenCL availability
+Sample 07 - Checks for hardware extension support
+Application Samples:
+
+Sample 06 - Video steam and capture image
+Sample 08 - Watermarking still image
+Sample 09 - Watermarking display stream
+Sample 10 - Still image face and eye detection
+Sample 11 - Real-time video face detection and tracking
+Sample 12 - Real-time people counter
 
 The twelve computer vision code samples in this repository have been optimized using Intel® Integrated Performance Primitives (Intel® IPP) and the Intel® Math Kernel Library (Intel® MKL). By following these code samples with the optimized libraries, you will be able to see performance improvements over the basic installation of OpenCV. 
 
