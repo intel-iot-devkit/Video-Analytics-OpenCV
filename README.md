@@ -1,3 +1,7 @@
+# DISCONTINUATION OF PROJECT #
+This project will no longer be maintained by Intel.
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.
+Intel no longer accepts patches to this project.
 # Video Analytics Code Samples using OpenCV
 
 This repository contains Python\* code samples which us the Open Source Computer Vision (OpenCV) Library.  These code samples are a good starting point for developers, across a wide range of markets, who wish to develop more robust computer vision and analytic solutions. 
